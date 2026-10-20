@@ -13,7 +13,7 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🎓 Cursando el **la carrera de Sistemas de la informacion** en Buenos Aires, Argentina 🇦🇷.
+- 🎓 Cursando **la carrera de Sistemas de la informacion** en Buenos Aires, Argentina 🇦🇷.
 - 🐍 Actualmente enfocado en **Python**, estructuras de datos, lógica de programación y automatización.
 - 🎮 Entusiasta del **desarrollo de videojuegos** y la arquitectura de software.
 - 🚀 Explorando el desarrollo de aplicaciones multiplataforma y nuevas herramientas de código abierto.
