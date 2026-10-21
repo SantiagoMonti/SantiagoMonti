@@ -9,7 +9,7 @@
 
   <br/><br/>
 
-  <!-- Insignias de resumen de perfil (Shields.io - Carga garantizada) -->
+  <!-- Insignias de resumen de perfil -->
   <img src="https://img.shields.io/badge/Rol-Sistemas_de_la_Información-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=academia&logoColor=black" alt="Rol" />
   <img src="https://img.shields.io/badge/Enfoque-Python_&_Game_Dev-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=python&logoColor=black" alt="Enfoque" />
   <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires,_AR-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=googlemaps&logoColor=black" alt="Ubicacion" />
@@ -18,7 +18,7 @@
 
 <br/>
 
-<!-- Línea divisoria degradada alojada en GitHub -->
+<!-- Línea divisoria degradada -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
 ### 👨‍💻 Sobre mí
@@ -28,18 +28,14 @@
 - 🎮 Entusiasta del **desarrollo de videojuegos** y la arquitectura de software.
 - 🚀 Explorando el desarrollo de aplicaciones multiplataforma y nuevas herramientas de código abierto.
 
-```python
-class SantiagoMonti:
-    def __init__(self):
-        self.username  = "SantiagoMonti"
-        self.ubicacion = "Buenos Aires, Argentina"
-        self.estudios  = "Sistemas de la Información"
-        self.lenguajes = ["Python", "C", "C#", "HTML5", "CSS3", "Git", "Linux"]
-        self.intereses = ["Game Development", "Software Architecture", "Automation"]
+<br/>
 
-    def estado_actual(self) -> str:
-        return "Desarrollando herramientas en Python y explorando arquitectura de software"
-```
+<!-- Imagen animada centrada en lugar del bloque de código (Alojada en GitHub para que no falle) -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="Developer Animation" />
+</div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
@@ -49,7 +45,6 @@ class SantiagoMonti:
 
   <br/>
 
-  <!-- Insignias con todos los logos verificados y operativos -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#" />
@@ -61,7 +56,7 @@ class SantiagoMonti:
 
   <br/><br/>
 
-  <!-- Grilla simétrica de iconos modernos (2 filas de 5 iconos) -->
+  <!-- Iconos modernos (Skill Icons) -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,cs,html,css,git,github,vscode,linux,docker&theme=dark&perline=5" alt="My Skills" />
   </a>
