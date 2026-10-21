@@ -1,66 +1,46 @@
-<div align="center">
 
-  <!-- Título y animación estilo máquina de escribir -->
+<!-- HEADER ANIMADO CON ONDAS (CAPSULE RENDER) -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Santiago%20Monti&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Sistemas%20de%20la%20Informaci%C3%B3n%20%7C%20Python%20%26%20Game%20Dev&descAlignY=55&descSize=18" />
+
+  <!-- Título y animación estilo máquina de escribir (Original conservado) -->
   <h1>👋 ¡Hola! Soy Santiago Monti</h1>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Printf+(%22Hello+World!%22)%3B;Estudiante+de+Sistemas+de+la+Informaci%C3%B3n;Desarrollando+en+Python;Apasionado+por+el+Game+Development" alt="Typing SVG" />
   </a>
 
+  <br/><br/>
+
+  <!-- Contador de visitas y accesos rápidos -->
+  <img src="https://komarev.com/ghpvc/?username=SantiagoMonti&label=Visitas+al+perfil&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
----
+<br/>
+
+<!-- DIVISOR ANIMADO -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 👨‍💻 Sobre mí
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding & Gaming GIF" />
+
 - 🎓 Estudiante de la carrera de **Sistemas de la Información** en Buenos Aires, Argentina 🇦🇷.
-- 🐍 Actualmente enfocado en **Python**, estructuras de datos, lógica de programación y automatización[cite: 1].
-- 🎮 Entusiasta del **desarrollo de videojuegos** y la arquitectura de software[cite: 1].
-- 🚀 Explorando el desarrollo de aplicaciones multiplataforma y nuevas herramientas de código abierto[cite: 1].
+- 🐍 Actualmente enfocado en **Python**, estructuras de datos, lógica de programación y automatización.
+- 🎮 Entusiasta del **desarrollo de videojuegos** y la arquitectura de software.
+- 🚀 Explorando el desarrollo de aplicaciones multiplataforma y nuevas herramientas de código abierto.
 
----
+<br clear="right"/>
 
-### 🛠️ Lenguajes y Herramientas
+```python
+class SantiagoMonti:
+    def __init__(self):
+        self.username = "SantiagoMonti"
+        self.rol = "Estudiante de Sistemas de la Información & Developer"
+        self.ubicacion = "Buenos Aires, Argentina 🇦🇷"
+        self.lenguajes_y_enfoque = ["Python", "C", "C#", "HTML5", "CSS3", "Automatización", "Game Dev"]
+        self.intereses_gaming = ["Kingdom Hearts", "Grand Theft Auto", "Racing Games", "Retro Emulation"]
 
-<div align="center">
-
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-  <br/><br/>
-
-  <!-- Iconos modernos (Skill Icons) -->
-  [![My Skills](https://skillicons.dev/icons?i=py,c,cs,html,css,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-### 📊 Estadísticas en GitHub
-
-<div align="center">
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SantiagoMonti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="SantiagoMonti GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMonti&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=SantiagoMonti&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🌐 Conectá conmigo
-
-<div align="center">
-
-  [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/santiagomonti)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/santiago8monti)
-
-</div>
+    def estado_actual(self):
+        return "Desarrollando en Python, creando herramientas y explorando arquitectura de software 🚀"
