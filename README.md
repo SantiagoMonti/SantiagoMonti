@@ -1,27 +1,29 @@
 <div align="center">
 
-  <!-- Banner superior animado (Onda suave estilo Tokyo Night sin texto repetido) -->
-  <img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e293b,100:38bdf8&height=120&section=header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e293b,100:38bdf8&height=120&section=header)" alt="Header" />
-
-  <!-- Título y animación estilo máquina de escribir -->
+  <!-- Título principal -->
   <h1>👋 ¡Hola! Soy Santiago Monti</h1>
 
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Printf+(%22Hello+World!%22)%3B;Estudiante+de+Sistemas+de+la+Informaci%C3%B3n;Desarrollando+en+Python;Apasionado+por+el+Game+Development](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Printf+(%22Hello+World!%22)%3B;Estudiante+de+Sistemas+de+la+Informaci%C3%B3n;Desarrollando+en+Python;Apasionado+por+el+Game+Development)" alt="Typing SVG" />
-  </a>
+  <!-- Subtítulo animado (URL simplificada sin caracteres especiales que rompan el proxy de GitHub) -->
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Estudiante+de+Sistemas+de+la+Informacion;Desarrollando+en+Python;Apasionado+por+el+Game+Development" alt="Typing SVG" />
+  </p>
 
-  <br/>
-
-  <!-- Contador de visitas discreto haciendo juego con el color #38BDF8 -->
-  <img src="[https://komarev.com/ghpvc/?username=SantiagoMonti&label=Visitas&color=38BDF8&style=flat-square](https://komarev.com/ghpvc/?username=SantiagoMonti&label=Visitas&color=38BDF8&style=flat-square)" alt="Visitas" />
+  <!-- Badges superiores con Shields.io (100% compatibles con GitHub) -->
+  <p>
+    <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires,_Argentina_🇦🇷-1a1b27?style=for-the-badge&labelColor=38BDF8" alt="Ubicacion" />
+    <img src="https://img.shields.io/github/followers/SantiagoMonti?label=Seguidores&style=for-the-badge&color=1a1b27&labelColor=38BDF8&logo=github" alt="Seguidores" />
+    <img src="https://img.shields.io/github/stars/SantiagoMonti?label=Estrellas&style=for-the-badge&color=1a1b27&labelColor=38BDF8&logo=github" alt="Stars" />
+  </p>
 
 </div>
 
----
+<!-- Línea divisoria animada alojada directamente en GitHub -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
 ### 👨‍💻 Sobre mí
 
-<img align="right" width="230" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" alt="Coding Animation" />
+<!-- GIF alojado directamente en user-images.githubusercontent.com (No se bloquea nunca) -->
+<img align="right" width="240" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Coding Animation" />
 
 - 🎓 Estudiante de la carrera de **Sistemas de la Información** en Buenos Aires, Argentina 🇦🇷.
 - 🐍 Actualmente enfocado en **Python**, estructuras de datos, lógica de programación y automatización.
@@ -40,7 +42,7 @@ class <b>SantiagoMonti</b>:
         self.intereses = ["Game Development", "Software Architecture", "Automation"]
 </pre>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
 ### 🛠️ Lenguajes y Herramientas
 
@@ -58,32 +60,26 @@ class <b>SantiagoMonti</b>:
 
 <br/>
 
-<!-- Iconos modernos (Skill Icons) -->
-[![My Skills](https://skillicons.dev/icons?i=py,c,cs,html,css,git,github,vscode,linux,docker&theme=dark&perline=5)]([https://skillicons.dev](https://skillicons.dev))
+[![My Skills](https://skillicons.dev/icons?i=py,c,cs,html,css,git,github,vscode,linux,docker&theme=dark&perline=5)](https://skillicons.dev)
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
 ### 📊 Estadísticas en GitHub
 
 <div align="center">
 
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api?username=SantiagoMonti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=SantiagoMonti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)" alt="SantiagoMonti GitHub Stats" />
-  <img height="165em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMonti&layout=compact&langs_count=6&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMonti&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SantiagoMonti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="SantiagoMonti GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoMonti&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="[https://streak-stats.demolab.com?user=SantiagoMonti&theme=tokyonight&hide_border=true&locale=es](https://streak-stats.demolab.com?user=SantiagoMonti&theme=tokyonight&hide_border=true&locale=es)" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <!-- Gráfico de actividad limpio con el mismo tema Tokyo Night -->
-  <img width="92%" src="[https://github-readme-activity-graph.vercel.app/graph?username=SantiagoMonti&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=SantiagoMonti&theme=tokyo-night&hide_border=true&area=true)" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=SantiagoMonti&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
 ### 🌐 Conectá conmigo
 
@@ -94,6 +90,3 @@ class <b>SantiagoMonti</b>:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SantiagoMonti)
 
 </div>
-
-<!-- Onda inferior de cierre -->
-<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e293b,100:38bdf8&height=90&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:1e293b,100:38bdf8&height=90&section=footer)" alt="Footer" />
