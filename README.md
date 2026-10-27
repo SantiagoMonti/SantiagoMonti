@@ -1,36 +1,38 @@
 <div align="center">
 
-  <!-- Título y animación estilo máquina de escribir -->
-  <h1>👋 ¡Hola! Soy Santiago Monti</h1>
+  <!-- Título y animación estilo máquina de escribir / Title and typing animation -->
+  <h1>👋 ¡Hola! Soy Santiago Monti / Hi! I'm Santiago Monti</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Printf+(%22Hello+World!%22)%3B;Estudiante+de+Sistemas+de+la+Informaci%C3%B3n;Desarrollando+en+Python;Apasionado+por+el+Game+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Printf+(%22Hello+World!%22)%3B;Estudiante+de+Sistemas+de+la+Informaci%C3%B3n;Information+Systems+Student;Desarrollando+en+Python;Developing+in+Python;Apasionado+por+el+Game+Development;Passionate+about+Game+Development" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Insignias de resumen de perfil -->
-  <img src="https://img.shields.io/badge/Rol-Sistemas_de_la_Información-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=academia&logoColor=black" alt="Rol" />
-  <img src="https://img.shields.io/badge/Enfoque-Python_&_Game_Dev-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=python&logoColor=black" alt="Enfoque" />
-  <img src="https://img.shields.io/badge/Ubicación-Buenos_Aires,_AR-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=googlemaps&logoColor=black" alt="Ubicacion" />
+  <!-- Insignias de resumen de perfil / Profile summary badges -->
+  <img src="https://img.shields.io/badge/Rol_|_Role-Sistemas_de_la_Información-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=academia&logoColor=black" alt="Rol" />
+  <img src="https://img.shields.io/badge/Enfoque_|_Focus-Python_&_Game_Dev-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=python&logoColor=black" alt="Enfoque" />
+  <img src="https://img.shields.io/badge/Ubicación_|_Location-Buenos_Aires,_AR-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=googlemaps&logoColor=black" alt="Ubicacion" />
 
 </div>
 
 <br/>
 
-<!-- Línea divisoria degradada -->
+<!-- Línea divisoria degradada / Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="divider" />
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 Sobre mí | About me
 
-- 🎓 Estudiante de la carrera de **Sistemas de la Información** en Buenos Aires, Argentina.
-- 🐍 Actualmente enfocado en **Python**, estructuras de datos, lógica de programación y automatización.
-- 🎮 Entusiasta del **desarrollo de videojuegos** y la arquitectura de software.
-- 🚀 Explorando el desarrollo de aplicaciones multiplataforma y nuevas herramientas de código abierto.
+| 🇪🇸 Español | 🇬🇧 English |
+| :--- | :--- |
+| 🎓 Estudiante de la carrera de **Sistemas de la Información** en Buenos Aires, Argentina. | 🎓 **Information Systems** student based in Buenos Aires, Argentina. |
+| 🐍 Actualmente enfocado en **Python**, estructuras de datos, lógica de programación y automatización. | 🐍 Currently focused on **Python**, data structures, programming logic, and automation. |
+| 🎮 Entusiasta del **desarrollo de videojuegos** y la arquitectura de software. | 🎮 Enthusiast of **game development** and software architecture. |
+| 🚀 Explorando el desarrollo de aplicaciones multiplataforma y nuevas herramientas de código abierto. | 🚀 Exploring cross-platform app development and new open-source tools. |
 
 <br/>
 
-<!-- Imagen animada centrada en lugar del bloque de código (Alojada en GitHub para que no falle) -->
+<!-- Imagen animada centrada / Centered animated GIF -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="420" alt="Developer Animation" />
 </div>
@@ -41,7 +43,7 @@
 
 <div align="center">
 
-  <h3>🛠️ Lenguajes y Herramientas</h3>
+  <h3>🛠️ Lenguajes y Herramientas | Languages and Tools</h3>
 
   <br/>
 
@@ -69,7 +71,7 @@
 
 <div align="center">
 
-  <h3>📊 Estadísticas en GitHub</h3>
+  <h3>📊 Estadísticas en GitHub | GitHub Stats</h3>
 
   <br/>
 
@@ -88,7 +90,7 @@
 
 <div align="center">
 
-  <h3>🌐 Conectá conmigo</h3>
+  <h3>🌐 Conectá conmigo | Connect with me</h3>
 
   <br/>
 
