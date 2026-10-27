@@ -10,9 +10,9 @@
   <br/><br/>
 
   <!-- Insignias de resumen de perfil / Profile summary badges -->
-  <img src="https://img.shields.io/badge/Rol_|_Role-Sistemas_de_la_Información-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=academia&logoColor=black" alt="Rol" />
+  <img src="https://img.shields.io/badge/Rol_|_Role-Sistemas_de_la_Informaci%C3%B3n-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=academia&logoColor=black" alt="Rol" />
   <img src="https://img.shields.io/badge/Enfoque_|_Focus-Python_&_Game_Dev-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=python&logoColor=black" alt="Enfoque" />
-  <img src="https://img.shields.io/badge/Ubicación_|_Location-Buenos_Aires,_AR-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=googlemaps&logoColor=black" alt="Ubicacion" />
+  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n_|_Location-Buenos_Aires,_AR-1a1b27?style=for-the-badge&labelColor=38BDF8&logo=googlemaps&logoColor=black" alt="Ubicacion" />
 
 </div>
 
